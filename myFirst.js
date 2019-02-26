@@ -9,6 +9,3 @@ function showDep() {
 console.log(b);
 }
 showDep();
-function showNothing() {
-  console.log("null");
-}
